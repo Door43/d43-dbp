@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbp:home|Door43 (dbp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbp|d43-dbp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbp/archive/master.zip|d43-dbp.zip]]
+
+**Recent Changes**
+{{changes>ns = dbp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbp|Ethnologue data]]
+
